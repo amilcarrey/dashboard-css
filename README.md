@@ -1,0 +1,1 @@
+This project was created just for learning purpose following a stream by @GoncyPozzo on twitch. https://www.twitch.tv/videos/577207510
